@@ -16,6 +16,8 @@ Find word that end in "ann"
 
     $ python gui.py
 
+![GUI](gui-screenshot.png)
+
 Help
 
     $ python endings.py --help
